@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,php,mysql,cypress,postman,git,vscode,windows,linux,ubuntu,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,cypress,postman,php,mysql,py,git,vscode,windows,linux,ubuntu,notion,)](https://skillicons.dev)
 
 
 <h3 align="left">Want to learn:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,py,kali,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,kali,selenium)](https://skillicons.dev)
