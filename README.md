@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋🏻, I'm Krzysztof</h1>
 &nbsp;
 
-- 🔭 Currently working on a project using **Python**
+- 🔭 Currently working on a project using **Playwright**
   
 - 💬 Open to questions and thoughts about **web development**
 
